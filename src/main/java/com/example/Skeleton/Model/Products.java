@@ -1,4 +1,4 @@
-package com.example.Skeleton.Component;
+package com.example.Skeleton.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
